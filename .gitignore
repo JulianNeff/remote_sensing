@@ -1,0 +1,16 @@
+data/raw/*
+data/processed/*
+data/filtered/*
+data/coordinates/field_parcels/*
+data/results/*
+data/validate/*
+
+src/model/.ipynb_checkpoints/*
+src/.ipynb_checkpoints/*
+logs/*
+weights/*
+
+.env
+*.pyc
+*__pycache__
+*lightning_logs
